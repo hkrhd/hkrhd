@@ -62,24 +62,12 @@ class フルスタックエンジニア:
 ### Data & Analysis | データ解析
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&theme=dark" />
 
-### Web & Backend | Web・バックエンド
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,react,html,css&theme=dark" />
-
 ### Tools & Environment | ツール・環境
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,docker,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,emacs,postgres&theme=dark" />
 
 </div>
 
 ---
-
-## 📂 Projects | プロジェクト
-### Project 1 Title
-A brief description of Project 1.
-[Link to Project 1 Repository]
-
-### Project 2 Title
-A brief description of Project 2.
-[Link to Project 2 Repository]
 
 ## 📬 Contact Me
 You can reach me at [Your Email Address].
