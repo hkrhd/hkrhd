@@ -1,62 +1,31 @@
-<div align="center">
+# Hi, I'm hkrhd | こんにちは
 
-# 🔌 Hi, I'm hkrhd
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer;Hardware+%26+Software+Developer;IoT+%26+Data+Science+Explorer;Python+%7C+Rust+%7C+Electronics)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧑‍💻 About Me | 自己紹介
+## About Me | 自己紹介
 
 ```python
-class FullStackEngineer:
+class Engineer:
     def __init__(self):
         self.name = "hkrhd"
         self.role = "Full Stack Engineer (Cloud-Free Zone)"
-        self.interests = ["IoT", "Data Science", "Hardware Hacking", "System Programming"]
-        self.current_focus = "Building embedded solutions with modern tech"
-        
-    def get_philosophy(self):
-        return "Code with purpose, build with passion 🚀"
+        self.interests = ["IoT", "Data Science", "Hardware", "System Programming"]
+        # フルスタックエンジニア（クラウド以外）
+        # 興味: IoT、データサイエンス、電子工作、システムプログラミング
 ```
 
-**🔍 What I'm exploring:**
-- 🔌 **Electronics & IoT**: Raspberry Pi, Arduino, sensor networks
-- 🐍 **Python Ecosystem**: Data analysis, automation, web backends  
-- 🦀 **Rust**: Systems programming, performance-critical applications
-- 📊 **Data Science**: ML, visualization, statistical analysis
-- ⚡ **Hardware Integration**: Bridging software and physical world
+**What I'm exploring | 探求中の分野:**
+- **Electronics & IoT | 電子工作・IoT**: Raspberry Pi, Arduino, sensors
+- **Python**: Data analysis, automation, web backends | データ解析、自動化、Webバックエンド
+- **Rust**: Systems programming | システムプログラミング
+- **Data Science | データサイエンス**: ML, visualization | 機械学習、可視化
 
-```python
-class フルスタックエンジニア:
-    def __init__(self):
-        self.name = "hkrhd"
-        self.role = "フルスタックエンジニア（クラウド以外）"
-        self.interests = ["IoT", "データサイエンス", "電子工作", "システムプログラミング"]
-        self.current_focus = "モダン技術による組み込み開発"
-        
-    def get_philosophy(self):
-        return "目的を持ってコードを書き、情熱を持って創造する 🚀"
-```
-
-**🔍 現在探求中の分野:**
-- 🔌 **電子工作・IoT**: Raspberry Pi、Arduino、センサーネットワーク
-- 🐍 **Pythonエコシステム**: データ解析、自動化、Webバックエンド
-- 🦀 **Rust**: システムプログラミング、高性能アプリケーション
-- 📊 **データサイエンス**: 機械学習、可視化、統計解析
-- ⚡ **ハードウェア統合**: ソフトウェアと物理世界の架け橋
-
----
-
-## 🛠️ Tech Stack | 技術スタック
+## Tech Stack | 技術スタック
 
 <div align="center">
 
 ### Programming Languages | プログラミング言語
 <img src="https://skillicons.dev/icons?i=python,rust,c,cpp,js,ts&theme=dark" />
 
-### Hardware & IoT | ハードウェア・IoT  
+### Hardware & IoT | ハードウェア・IoT
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark" />
 
 ### Data & Analysis | データ解析
@@ -67,27 +36,6 @@ class フルスタックエンジニア:
 
 </div>
 
----
+## GitHub Stats
 
-## 📬 Contact Me
-You can reach me at [Your Email Address].
-Connect with me on [LinkedIn Profile URL] or [Twitter Profile URL].
-
-## 📊 GitHub Stats
-![hkrhd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkrhd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkrhd&layout=compact&theme=radical)
-
-<!--
-**hkrhd/hkrhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkrhd&layout=compact&theme=dark)
