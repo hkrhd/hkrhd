@@ -1,40 +1,27 @@
-# Hi, I'm hkrhd | こんにちは
+## About Me
 
-## About Me | 自己紹介
 
-```python
-class Engineer:
-    def __init__(self):
-        self.name = "hkrhd"
-        self.role = "Full Stack Engineer (Cloud-Free Zone)"
-        self.interests = ["IoT", "Data Science", "Hardware", "System Programming"]
-        # フルスタックエンジニア（クラウド以外）
-        # 興味: IoT、データサイエンス、電子工作、システムプログラミング
-```
+I am aiming to become a Full Stack Engineer / フルスタックエンジニアを目指してます！
 
-**What I'm exploring | 探求中の分野:**
-- **Electronics & IoT | 電子工作・IoT**: Raspberry Pi, Arduino, sensors
-- **Python**: Data analysis, automation, web backends | データ解析、自動化、Webバックエンド
-- **Rust**: Systems programming | システムプログラミング
-- **Data Science | データサイエンス**: ML, visualization | 機械学習、可視化
+**What I'm exploring | 興味のある分野:**
 
-## Tech Stack | 技術スタック
+### Electronics & IoT | 電子工作・IoT
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
 
-<div align="center">
+- Raspberry Pi
 
-### Programming Languages | プログラミング言語
-<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,js,ts&theme=dark" />
+### 3D Printing
+- fusion360, ender3S1pro
 
-### Hardware & IoT | ハードウェア・IoT
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark" />
+### Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
 
-### Data & Analysis | データ解析
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&theme=dark" />
+- PyTorch, scikit-learn, ML, visualization
 
-### Tools & Environment | ツール・環境
-<img src="https://skillicons.dev/icons?i=git,github,vscode,emacs,postgres&theme=dark" />
+### Technologies | 技術
+<img src="https://skillicons.dev/icons?i=rust,docker,postgres&theme=dark" />
 
-</div>
+- Rust, Docker, Postgres, Lisp, Ibis, QuestDB
 
 ## GitHub Stats
 
