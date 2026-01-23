@@ -1,28 +1,25 @@
 ## About Me
+フルスタックエンジニア目指し中
 
+**What I'm exploring**
 
-I am aiming to become a Full Stack Engineer / フルスタックエンジニアを目指してます！
-
-**What I'm exploring | 興味のある分野:**
-
-### Electronics & IoT | 電子工作・IoT
-<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
+### <img src="https://skillicons.dev/icons?i=raspberrypi" /> Electronics & IoT | 電子工作・IoT
 
 - Raspberry Pi
 
-### 3D Printing
-- fusion360, ender3S1pro
+### <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fusion360_Logo.svg" height="40" alt="Fusion 360" /> 3D Printing
 
-### Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+- fusion360
+- ender3S1pro
 
-- PyTorch, scikit-learn, ML, visualization
+### <img src="https://skillicons.dev/icons?i=pytorch" /> Data Science
+- pytorch
+- Ibis framework
 
-### Technologies | 技術
-<img src="https://skillicons.dev/icons?i=rust,docker,postgres&theme=dark" />
+### <img src="https://skillicons.dev/icons?i=postgres" /> Technologies | 技術 
 
-- Rust, Docker, Postgres, Lisp, Ibis, QuestDB
+- Postgres
+- Docker
+- Rust
+- Lisp
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkrhd&layout=compact&theme=dark)
