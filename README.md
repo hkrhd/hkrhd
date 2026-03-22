@@ -1,6 +1,3 @@
-## About Me
-フルスタックエンジニア目指し中
-
 **What I'm exploring**
 
 ### <img src="https://skillicons.dev/icons?i=raspberrypi" /> Electronics & IoT | 電子工作・IoT
@@ -16,7 +13,7 @@
 - pytorch
 - Ibis framework
 
-### <img src="https://skillicons.dev/icons?i=postgres" /> Technologies | 技術 
+### <img src="https://skillicons.dev/icons?i=postgres" /> Others
 
 - Postgres
 - Docker
